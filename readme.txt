@@ -1,3 +1,2 @@
 123456
 abcdefg
-ABCDEFG
